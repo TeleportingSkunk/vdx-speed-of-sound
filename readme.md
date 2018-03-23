@@ -6,7 +6,7 @@ Make resistance, pins, and thermistor coefficient changes as required. Run.
 
 ### Reference Equations
 * Simple Voltage Divider
-* Steinhart - Hart Semiconductor Temperature Equation http://www.skyeinstruments.com/wp-content/uploads/Steinhart-Hart-Eqn-for-10k-Thermistors.pdf
-
+* Steinhart - Hart Semiconductor Temperature Equation: http://www.skyeinstruments.com/wp-content/uploads/Steinhart-Hart-Eqn-for-10k-Thermistors.pdf
+* Speed of Sound in Air as a function of Temperature: https://www.nde-ed.org/EducationResources/HighSchool/Sound/tempandspeed.htm
 ## Author
 Marko Galevski
