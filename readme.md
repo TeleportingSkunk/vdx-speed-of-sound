@@ -6,6 +6,7 @@ Make resistance, pins, and thermistor coefficient changes as required. Run.
 
 ###Reference Equations
 * Simple Voltage Divider
-* Steinhart - Hart Semiconductor Temperature Equation
-###
+* Steinhart - Hart Semiconductor Temperature Equation http://www.skyeinstruments.com/wp-content/uploads/Steinhart-Hart-Eqn-for-10k-Thermistors.pdf
+
+##
 Marko Galevski
